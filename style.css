@@ -47,10 +47,27 @@ body{
     /* background-size: 1400px 500px; */
 /* } */ 
 
+.btn1{
+    background-color: #ff1717;
+    color: white;
+    cursor: pointer;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    height:50px;
+    width:100px;
+}
 .btn{
     background-color: #ff1717;
     color: white;
     cursor: pointer;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    height:50px;
+    width:100px;
 }
 
 #text{
