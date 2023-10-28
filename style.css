@@ -1,0 +1,48 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
+#logo{
+    height: 75px;
+    width: 500px;
+}
+
+#navbar ul{
+    display: flex;
+}
+
+#navbar ul li{
+    list-style: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#navbar ul li :hover{
+    color: red;
+}
+
+#mlh{
+    height: 150px;
+    width: 70px;
+}
+
+#home{
+    background-image: url(img/bg.png);
+    height: 100vh;
+    width: 100vw;
+}
+
+.btn{
+    background-color: #ff1717;
+    color: white;
+    cursor: pointer;
+}
+
+#text{
+    color: white;
+}
+
